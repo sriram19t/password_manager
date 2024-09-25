@@ -160,7 +160,7 @@ cython_debug/
 
 
 
-/pmg/
+pmg/
 
 *.Ds-Store
 
