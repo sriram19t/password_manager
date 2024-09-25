@@ -57,7 +57,7 @@ A simple and secure password manager that allows users to add and view encrypted
    Start the password manager by running:
 
    ```bash
-   python password_manager.py
+   python pmg.py
    ```
 
 2. **Manage Your Passwords**:
